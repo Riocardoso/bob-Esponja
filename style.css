@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   display: flex;
+    width: 100%;
+    height: 100%;
+
+}
+
+.titulo{
+    display: flex;
+ justify-items: center;
+ align-items: center;
+ margin: 55px;
+    width: 350px;
+    height: 200px;
+    background: green;
+    text-align: center;
+}
+
+
+#Romario{
+    background: red;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    margin: 55px;
+       width: 350px;
+       height: 200px;
+}
