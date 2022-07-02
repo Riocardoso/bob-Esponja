@@ -11,24 +11,12 @@ body{
 }
 
 .titulo{
-    display: flex;
+    display: 0;
  justify-items: center;
  align-items: center;
  margin: 55px;
-    width: 350px;
+    width: 2500px;
     height: 200px;
-    background: green;
+    background: #fbff00;
     text-align: center;
-}
-
-
-#Romario{
-    background: red;
-    display: flex;
-    justify-items: center;
-    align-items: center;
-    text-align: center;
-    margin: 55px;
-       width: 350px;
-       height: 200px;
 }
