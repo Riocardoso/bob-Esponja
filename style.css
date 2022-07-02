@@ -14,9 +14,20 @@ body{
     display: 0;
  justify-items: center;
  align-items: center;
- margin: 55px;
+ margin: 10px;
     width: 2500px;
     height: 200px;
-    background: #fbff00;
+    background: #ffffff;
+    text-align: center;
+}
+
+.login{
+    display: 0;
+ justify-items: center;
+ align-items: center;
+ margin: 10px;
+    width: 500px;
+    height: 200px;
+    background: #ffffff;
     text-align: center;
 }
